@@ -1,4 +1,4 @@
-DataCopier
+DataCopier - Ryan MacNeille (MrClappy @ GitHub)
 ==========
 
-Directory viewer w/ file counter for specified network shares - Copy dialog for managing data.
+Simple UI for managing data on multiple network shares - Builtin function for copying dirs to and from specified paths. Written in Qt C++.
