@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/MyFiles">
-        <file>C:/ProgramData/Altavian V 5in.jpg</file>
-        <file>C:/Users/rmacneille.ALTAVIAN.001/Desktop/favicon.ico</file>
-        <file>C:/Users/rmacneille.ALTAVIAN.001/Desktop/favicon.jpg</file>
-    </qresource>
-    <qresource prefix="/"/>
-</RCC>
