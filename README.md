@@ -1,4 +1,4 @@
 DataCopier
 ==========
 
-Simple UI for managing data on multiple network shares - Builtin function for copying dirs to and from specified paths. Written in Qt C++.
+Simple app that searches a local network for shared folders containing images and manages large data transfers to and from specified paths. Written in Qt C++.
